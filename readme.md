@@ -43,7 +43,7 @@ div: nth-child(1) div: nth-child(2) {
 ### :nth-last-child(n)
 
 - **`:nth-last-child(n)`** 은 마지막 요소로 부터 n번째 선택자이다. 다만 body아래의 최상단의 요소가 두개 이상 있더라도 최상단의 요소의 마지막 요소는 선택되지 않는다.
-ex)
+  ex)
 ```html
 <body>
     <div> 
