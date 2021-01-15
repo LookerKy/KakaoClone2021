@@ -2,8 +2,9 @@
 ---
 ### :nth-child(n)
 
-- **`:nth-child(n)`** 는 n번째 자식 선택자로써 단일로 쓴다면 body 내부의 구획에 존재하는 모든 n번째 요소를 가르킨다.
-EX )
+- **`:nth-child(n)`** 는 n번째 자식 선택자로써 단일로 쓴다면 body 내부의 구획에 존재하는 모든 n번째 요소를 가르킨다.  
+
+  EX )
 ```html
 <body>
     <div> <!-- div:nth-child(1) -->
